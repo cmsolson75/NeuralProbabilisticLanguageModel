@@ -82,7 +82,7 @@ python train.py --config configs/config.json
 ### Name Generation App
 Run the name generation application using:
 ```bash
-python app.py --prompt "Enter a prompt here" --num_names 5 --temperature 0.7
+python app.py --prompt "name starting letters" --num_names 5 --temperature 0.7
 ```
 To modify the model used change path in `configs/app_config.json`
 
