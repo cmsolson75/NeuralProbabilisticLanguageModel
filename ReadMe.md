@@ -27,7 +27,7 @@
   - Automatic device discovery
   - Linear learning rate decay
   - Fit function with `tqdm` for progress bar
-  - Evaluation for model tuning using the perplexity metric (exp(cross_entropy)), as described in the paper.
+  - Evaluation for model tuning using the perplexity metric `torch.exp(F.cross_entropy(logits, targets))`(exp(cross_entropy)), as described in the paper.
 - **Model Implementation**
   - Custom serialization
   - Custom model load
