@@ -3,7 +3,7 @@
 *Implementation of the 2003 paper "A Neural Probabilistic Language Model"  by Yoshua Bengio.*
 *Inspired by Andrej Karpathy's "Neural Networks: Zero to Hero" lecture series.*
 
-This project was to learn more about language modeling, play around with the Xavier implementation, and implement Weight Decay into a Stochastic Gradient Decent optimizer, with momentum. 
+This project is a name generator using the architecture from the paper *"A Neural Probabilistic Language Model"*. It generates names from either no prompt or a custom prompt from the user. I made this project to learn more about language modeling, play around with the Xavier implementation, and implement Weight Decay into a Stochastic Gradient Decent optimizer with momentum.
 
 
 ## Table of Contents
