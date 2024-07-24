@@ -61,7 +61,7 @@
 
 ### Requirements
 Ensure you have the correct python version installed:
-- Python 3.10
+- Python >= 3.10
 
 Install the required Python packages:
 ```bash
