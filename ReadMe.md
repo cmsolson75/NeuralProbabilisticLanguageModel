@@ -113,4 +113,3 @@ A typical configuration file (`configs/config.json`) looks like:
     "generatorSeed": 42
 }
 ```
-# NeuralProbabilisticLanguageModel
