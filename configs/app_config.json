@@ -1,0 +1,5 @@
+
+{
+    "modelPath": "models/model_trained.pt",
+    "defaultTemperature": 0.5
+}

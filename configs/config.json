@@ -1,0 +1,15 @@
+{
+    "runName": "gpt_but_2003",
+    "dataPath": "data/names.txt",
+    "epochs": 10000,
+    "batchSize": 512,
+    "learningRateDecay":[0.1, 0.001],
+    "vocab": 27,
+    "hiddenSize": 350,
+    "embeddingSize": 12,
+    "context": 6,
+    "weightInitialization": "normal",
+    "weightDecay": 0.0001,
+    "momentum": 0.9,
+    "generatorSeed": 42
+}
