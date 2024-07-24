@@ -3,7 +3,8 @@
 *Implementation of the 2003 paper "A Neural Probabilistic Language Model"  by Yoshua Bengio.*
 *Inspired by Andrej Karpathy's "Neural Networks: Zero to Hero" lecture series.*
 
-This project was to learn more about language modeling, and play around with the Xavier implementation, as well as implement Weight Decay into a optimizer. 
+This project was to learn more about language modeling, play around with the Xavier implementation, and implement Weight Decay into a Stochastic Gradient Decent optimizer, with momentum. 
+
 
 ## Table of Contents
 - [Features](#features)
